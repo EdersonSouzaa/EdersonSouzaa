@@ -3,7 +3,11 @@
 
 ### Linguagens que estou aprendendo e aperfeiçoando 💪
 
-![Ederson Github stats](https://github-readme-stats.vercel.app/api?username={EdersonSouzaa}&theme=blue-green)
+<div style='display: inline_block'><br/>
+
+  <img height="100em" alt="html" src="https://github-readme-stats.vercel.app/api?username={EdersonSouzaa}&theme=blue-green">
+
+<div>
 
 <div style='display: inline_block'><br/>
 
