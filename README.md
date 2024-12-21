@@ -21,13 +21,9 @@
         <img 
             src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
         />
-    <a href="https://www.youtube.com/@larissakich">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         />
-    </a> 
 
 
 
