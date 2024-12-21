@@ -1,6 +1,13 @@
 
+### Olá como vai ? Sou o Éderson
 
 ### Linguagens que estou aprendendo e aperfeiçoando 💪
+
+<div style='display: inline_block'><br/>
+
+  <img align="center" alt="html" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green">
+
+<div>
 
 <div style='display: inline_block'><br/>
 
