@@ -16,17 +16,6 @@
         />
 
 
-
-
-
-<div style='display: inline_block'><br/>
-
-  <img height="100em" color="red" alt="html" src="https://github-readme-stats.vercel.app/api?username={EdersonSouzaa}&theme=blue-green">
-
-<div>
-
-
-
 <p>
   <img 
     align="left" 
