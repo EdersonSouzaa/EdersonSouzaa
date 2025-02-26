@@ -1,6 +1,6 @@
 ### Olá, como vai? Sou o Éderson  
 
-### Linguagens que estou aprendendo e aperfeiçoando 💪  
+### Linguagens e frameworks que estou aprendendo e aperfeiçoando 💪  
 
 --------------------------------  
 
