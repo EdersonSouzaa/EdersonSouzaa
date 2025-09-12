@@ -29,5 +29,9 @@
 
 ## 🛠️ Projetos em Destaque  
 
+<p>
 - 🛒 [E-commerce Front-End](https://github.com/EdersonSouzaa/E-commerce.git) – Layout responsivo para loja virtual.  
+    
+</p>
+
 
