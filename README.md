@@ -22,9 +22,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 </div>
 
+---
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdersonSouzaa&theme=tokyonight" alt="streak"/>
