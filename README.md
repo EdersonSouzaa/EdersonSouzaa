@@ -1,4 +1,4 @@
-### Olá, como vai? Sou o Éderson  
+### Olá, como vai ? Sou o Éderson  
 
 ### Linguagens e frameworks que estou aprendendo e aperfeiçoando 💪  
 
@@ -12,7 +12,7 @@
 </p>
 
 
-### Desempenho ✅  
+### Desempenho e Performance ✅  
 
 <p>
   <img 
