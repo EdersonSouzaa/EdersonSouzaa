@@ -5,7 +5,8 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo e aprimorando 💪  
+## 🚀 Tecnologias que estou aprendendo e aperfeicoando 💪  
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -17,6 +18,8 @@
 ---
 
 ## 📊 Desempenho e Estatísticas do GitHub  
+
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
