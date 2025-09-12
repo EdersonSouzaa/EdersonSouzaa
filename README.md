@@ -1,5 +1,8 @@
 ### Olá, como vai ? Sou o Éderson  
 
+### 💻 Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em soluções digitais.  
+### 🎯 Meu objetivo é evoluir como desenvolvedor Full Stack, riar aplicações rápidas e intuitivas.  
+
 ### Linguagens e frameworks que estou aprendendo e aperfeiçoando 💪  
 
 --------------------------------  
@@ -23,3 +26,8 @@
     src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+## 🛠️ Projetos em Destaque  
+
+- 🛒 [E-commerce Front-End](https://github.com/EdersonSouzaa/E-commerce.git) – Layout responsivo para loja virtual.  
+
