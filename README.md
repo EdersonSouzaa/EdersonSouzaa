@@ -24,6 +24,9 @@
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
 
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
+
 </div>
 
 ---
@@ -51,3 +54,5 @@
 ## 🛠️ Projetos em Destaque  
 
 - 🛒 [E-commerce Front-End](https://github.com/EdersonSouzaa/E-commerce.git) – Layout responsivo para loja virtual.
+
+---
