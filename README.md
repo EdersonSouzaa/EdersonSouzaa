@@ -27,6 +27,9 @@
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
 
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+
 
 </div>
 
