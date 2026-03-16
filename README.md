@@ -57,8 +57,16 @@
 
 ## 🛠️ Projetos em Destaque  
 
-- 🛒 [E-commerce Front-End](https://github.com/EdersonSouzaa/E-commerce.git) 
+<div align="center">
 
-- 🚗 [Sistema para locação](https://github.com/EdersonSouzaa/Sistema_DriveOn) 
+<a href="https://github.com/EdersonSouzaa/E-commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=E-commerce&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/EdersonSouzaa/Sistema_DriveOn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=Sistema_DriveOn&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
