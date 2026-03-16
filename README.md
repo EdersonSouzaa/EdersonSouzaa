@@ -1,71 +1,93 @@
-# 👋 Olá, eu sou o Éderson  
+# 👋 Olá, eu sou o Éderson
 
-💻 Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em soluções digitais.  
-🎯 Meu objetivo é evoluir como desenvolvedor Full Stack, criando aplicações rápidas e intuitivas.  
+<p align="left">
+💻 Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em soluções digitais. <br>
+🎯 Meu objetivo é evoluir como desenvolvedor Full Stack, criando aplicações rápidas e intuitivas.
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=EdersonSouzaa&label=Visualizações&color=blue&style=flat"/>
+</p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo e aperfeiçoando 💪  
+## 🚀 Tecnologias que estou aprendendo e aperfeiçoando 💪
 
 <div align="left">
 
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
-  
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,postgres,mysql&theme=light" />
 
 </div>
 
 ---
 
-## 📊 Desempenho e Estatísticas do GitHub  
+## 📊 Desempenho e Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdersonSouzaa&theme=tokyonight" alt="streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdersonSouzaa&theme=tokyonight" alt="streak"/>
+
 </div>
 
 ---
 
-## 🛠️ Projetos em Destaque  
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EdersonSouzaa&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🛠️ Projetos em Destaque
 
 <div align="center">
 
 <a href="https://github.com/EdersonSouzaa/E-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=E-commerce&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=E-commerce&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/EdersonSouzaa/Sistema_DriveOn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=Sistema_DriveOn&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=Sistema_DriveOn&theme=tokyonight" />
 </a>
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonSouzaa&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🐍 Cobrinha comendo meus commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
