@@ -5,10 +5,6 @@
 🎯 Meu objetivo é evoluir como desenvolvedor Full Stack, criando aplicações rápidas e intuitivas.
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=EdersonSouzaa&label=Visualizações&color=blue&style=flat"/>
-</p>
-
 ---
 
 ## 🚀 Tecnologias que estou aprendendo e aperfeiçoando 💪
