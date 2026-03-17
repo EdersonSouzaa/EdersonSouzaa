@@ -2,7 +2,7 @@
 
 <p align="left">
 💻 Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em soluções digitais. <br>
-🎯 Meu objetivo é evoluir como desenvolvedor Full Stack, criando aplicações rápidas e intuitivas.
+🎯 Meu objetivo é evoluir e aprender como desenvolvedor Full Stack, criando aplicações rápidas e que tragam soluções de grande impacto.
 </p>
 
 ---
