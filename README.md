@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 </div>
 
-**Ferramentas e versionamento**
+**Versionamento**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />
 </div>
