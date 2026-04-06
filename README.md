@@ -17,27 +17,27 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNIFOR).
-- 🎯 Atualmente focado no ecossistema JavaScript (**React, Node.js e TypeScript**).
-- 🛠️ Experiência com bancos de dados relacionais (**PostgreSQL e MySQL**).
-- 🧠 Apaixonado por arquitetura de software e soluções Full-Stack.
+- 🎯 Atualmente focado no ecossistema JavaScript (**React, Node.js e JavaScript**).
+- 🛠️ Experiência com bancos de dados relacionais (**MySQL**).
+- 🧠 Buscando criar soluções e ampliar conhecimentos Full-Stack.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Frontend & Mobile**
+**Frontend**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" />
 </div>
 
 **Backend & Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 </div>
 
-**DevOps & Versão**
+**Ferramentas e versionamento**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />
 </div>
 
 ---
