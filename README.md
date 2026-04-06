@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Éderson Souza
+# 👋 Olá, eu sou o Éderson Façanha
 
 <p align="left">
 💻 **Desenvolvedor Full-Stack em Formação** | Transformando ideias em soluções digitais de alto impacto.
