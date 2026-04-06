@@ -49,9 +49,9 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **[DriveOn](https://github.com/EdersonSouzaa/Sistema_DriveOn)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | React, Node.js, PostgreSQL |
+| **[DriveOn](https://github.com/EdersonSouzaa/Sistema_DriveOn)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | MySQL, HTML, CSS, JS |
 | **[E-commerce](https://github.com/EdersonSouzaa/E-commerce)** | Aplicação de vendas online com interface responsiva e integração de catálogo. | JavaScript, HTML, CSS |
-| **[SmartLav]** | Gestão para lavanderias industriais (No-code / Low-code). | Bubble |
+| **[RPGConnect](https://github.com/EdersonSouzaa/RPGConnect)** | Sistema de RPG entre comunidades de jogos de mesa  | MySQL, React, NodeJS|
 
 ---
 
