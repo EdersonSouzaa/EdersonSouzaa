@@ -8,7 +8,7 @@
   <a href="https://edersonsouzaa.github.io/Portif-lio_dev/" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Portfólio-7957d5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/ederson-souza-baa675341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
