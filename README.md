@@ -1,80 +1,66 @@
-# 👋 Olá, eu sou o Éderson
+# 👋 Olá, eu sou o Éderson Souza
 
 <p align="left">
-💻 Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em soluções digitais. <br>
-🎯 Meu objetivo é evoluir e aprender como desenvolvedor Full Stack, criando aplicações rápidas e que tragam soluções de grande impacto.
+💻 **Desenvolvedor Full-Stack em Formação** | Transformando ideias em soluções digitais de alto impacto.
 </p>
 
----
-
-## 🚀 Tecnologias que estou aprendendo e aperfeiçoando 💪
-
 <div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,postgres,mysql&theme=light" />
-
+  <a href="https://edersonsouzaa.github.io/Portif-lio_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-7957d5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-## 📊 Desempenho e Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-</div>
+### 🚀 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNIFOR).
+- 🎯 Atualmente focado no ecossistema JavaScript (**React, Node.js e TypeScript**).
+- 🛠️ Experiência com bancos de dados relacionais (**PostgreSQL e MySQL**).
+- 🧠 Apaixonado por arquitetura de software e soluções Full-Stack.
 
 ---
 
-<div align="center">
+### 🛠️ Tecnologias e Ferramentas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
-
+**Frontend & Mobile**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdersonSouzaa&theme=tokyonight" alt="streak"/>
-
+**Backend & Database**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" />
 </div>
 
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EdersonSouzaa&theme=tokyonight&row=1&column=6"/>
-
+**DevOps & Versão**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" />
 </div>
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/EdersonSouzaa/E-commerce">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=E-commerce&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/EdersonSouzaa/Sistema_DriveOn">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdersonSouzaa&repo=Sistema_DriveOn&theme=tokyonight" />
-</a>
-
-</div>
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **[DriveOn](https://github.com/EdersonSouzaa/Sistema_DriveOn)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | React, Node.js, PostgreSQL |
+| **[E-commerce](https://github.com/EdersonSouzaa/E-commerce)** | Aplicação de vendas online com interface responsiva e integração de catálogo. | JavaScript, HTML, CSS |
+| **[SmartLav]** | Gestão para lavanderias industriais (No-code / Low-code). | Bubble |
 
 ---
 
-## 📈 Atividade no GitHub
+## 📊 Estatísticas e Desempenho
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdersonSouzaa&theme=tokyo-night"/>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EdersonSouzaa&theme=tokyonight&row=1&column=6"/>
 </div>
 
 ---
@@ -82,5 +68,11 @@
 ## 🐍 Contribuições
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/EdersonSouzaa/EdersonSouzaa/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/EdersonSouzaa/EdersonSouzaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Game">
 </p>
+
+---
+
+<div align="center">
+  <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i></p>
+</div>
