@@ -35,7 +35,7 @@
 
 **Backend & Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase&theme=dark" />
 </div>
 
 **Versionamento**
