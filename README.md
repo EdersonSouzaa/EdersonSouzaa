@@ -49,8 +49,8 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **[DriveOn](https://github.com/EdersonSouzaa/Sistema_DriveOn)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | MySQL, HTML, CSS, JS |
-| **[E-commerce](https://github.com/EdersonSouzaa/E-commerce)** | Aplicação de vendas online com interface responsiva e integração de catálogo. | JavaScript, HTML, CSS |
+| **[CineList](https://github.com/EdersonSouzaa/CineList)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | MySQL, HTML, CSS, JS |
+| **[Alexandria](https://github.com/EdersonSouzaa/Alexandria)** | Aplicação de vendas online com interface responsiva e integração de catálogo. | JavaScript, HTML, CSS |
 | **[RPGConnect](https://github.com/EdersonSouzaa/RPGConnect)** | Sistema de RPG entre comunidades de jogos de mesa  | MySQL, React, NodeJS|
 
 ---
