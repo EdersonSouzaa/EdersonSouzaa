@@ -46,7 +46,7 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **[CineList](https://github.com/EdersonSouzaa/CineList)** | Sistema de gestão para locadoras de veículos, focando em controle de frota e fluxos operacionais. | MySQL, HTML, CSS, JS |
+| **[ElaSegura](https://github.com/EdersonSouzaa/ElaSegura)** | Aplicativo móvel desenvolvido para ajudar na proteção das mulheres | PostegreSQL, React.JS, Express|
 | **[Alexandria](https://github.com/EdersonSouzaa/Alexandria)** | Aplicação de vendas online com interface responsiva e integração de catálogo. | JavaScript, HTML, CSS |
 | **[RPGConnect](https://github.com/EdersonSouzaa/RPGConnect)** | Sistema de RPG entre comunidades de jogos de mesa  | MySQL, React, NodeJS|
 
